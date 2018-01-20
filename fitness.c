@@ -396,8 +396,9 @@ void group_booking_spread_score(dict_t *d, table_fitness_t *ft) {
 			score++;
 		}
 	}
-
-	ft->fitness_definitons[GROUP_BOOKING_SPREAD_S][VALUE_S] = score;
+	if (score <= ft->fitness_definitons[GROUP_BOOKING_SPREAD_S][MAX_RANGE_S]) {
+		ft->fitness_definitons[GROUP_BOOKING_SPREAD_S][VALUE_S] = score;
+	}
 
 	normalize_weight_score(GROUP_BOOKING_SPREAD_S, ft);
 }
@@ -512,8 +513,8 @@ void get_fitness_definitions(dict_t *d, table_fitness_t *ft, bool use_weigths) {
 	{ SEMINAR_ROOM_COST_S * d->n_persons, AUD_COST_S * d->n_persons, 0.1, 0, 9999 },
 	{ 0, d->n_groups, 0.85, 0, 9999 },
 	{ 0, d->n_groups, 0.4, 0, 9999 },
-	{ 0, 110, 0.25, 0, 9999 },
-	{ 20, 150, 0.8, 0, 9999 },
+	{ 0, 160, 0.25, 0, 9999 },
+	{ 20, 115, 0.8, 0, 9999 },
 	{ 0, 40, 0.3, 0, 9999 },
 	{ 4, 7, 1, 0, 9999 }
 	};
