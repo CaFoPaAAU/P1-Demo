@@ -1,0 +1,11 @@
+NAME	ID
+Komprimering af korte tekststykker	1
+Gruppedannelse	2
+Kollisionsundgaaelse i luften	3
+Flytning og indretning	4
+Elektronisk valg	5
+Analyse af livestream data	6
+Ressourceplanlaegning paa AAU	7
+Intelligente lyskryds	8
+Maaling og optimering i parcelhus	9
+Detektering af plagiat	10

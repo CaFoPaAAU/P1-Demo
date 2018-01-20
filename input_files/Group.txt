@@ -1,0 +1,32 @@
+ID	Group	Subject	Subject_ID	Supervisor	Supervisor_ID	CO_Supervisor	Co_supervisor_ID
+1	DAT A305	Komprimering af korte tekststykker	1	Frederik Meyer Boenneland	1	Laurits Nissen	2
+2	DAT A404	Gruppedannelse	2	Kurt Noermark	4	Laurits Nissen	2
+3	DAT A313a	Kollisionsundgaaelse i luften	3	Magnus Madsen	5	Sahar Sattari	6
+4	DAT A408a	Kollisionsundgaaelse i luften	3	Magnus Madsen	5	Sahar Sattari	6
+5	SW A311b	Flytning og indretning	4	Magnus Madsen	5	Sahar Sattari	6
+6	SW A306	Elektronisk valg	5	Magnus Madsen	5	Kirsten Krogh Hansen	3
+7	SW A310b	Komprimering af korte tekststykker	1	David Junker	8	Sahar Sattari	9
+8	SW A401	Komprimering af korte tekststykker	1	David Junker	8	Sara Aaen	9
+9	DAT A412	Analyse af livestream data	6	Niels Broendum Pedersen	10	Sahar Sattari	6
+10	SW A310a	Elektronisk valg	5	Niels Broendum Pedersen	10	Sahar Sattari	6
+11	SW A311a	Elektronisk valg	5	Niels Broendum Pedersen	10	Sahar Sattari	6
+12	DAT A409	Elektronisk valg	5	Kurt Noermark	4	Sara Aaen	9
+13	DAT A403	Ressourceplanlaegning paa AAU	7	Kurt Noermark	4	Sara Aaen	9
+14	SW A400a	Intelligente lyskryds	8	Isabella Kaufmann	11	Henrik Routhe	12
+15	SW A402	Ressourceplanlaegning paa AAU	7	Anders Mariegaard	13	Henrik Routhe	12
+16	SW A410	Maaling og optimering i parcelhus	9	Anders Mariegaard	13	Henrik Routhe	12
+17	SW A302	Detektering af plagiat	10	Hans Huettel	14	Asbjoern Romme	15
+18	SW A428c	Detektering af plagiat	10	Hans Huettel	14	Asbjoern Romme	15
+19	SW A428b	Intelligente lyskryds	8	Tobias Skovgaard Jepsen	16	Asbjoern Romme	15
+20	SW A303	Intelligente lyskryds	8	Isabella Kaufmann	11	Chunfang Zhou	17
+21	DAT A325b	Intelligente lyskryds	8	Tobias Skovgaard Jepsen	16	Chunfang Zhou	17
+22	SW A408b	Analyse af livestream data	6	Niels Broendum Pedersen	10	Sahar Sattari	6
+23	SW A428a	Analyse af livestream data	6	Niels Broendum Pedersen	10	Sahar Sattari	6
+24	DAT A304	Elektronisk valg	5	Niels Broendum Pedersen	10	Sara Aaen	9
+25	SW A428d	Gruppedannelse	2	Anders Mariegaard	13	Chunfang Zhou	17
+26	SW A312b	Gruppedannelse	2	Anders Mariegaard	13	Chunfang Zhou	17
+27	SW A313b	Gruppedannelse	2	Anders Mariegaard	13	Chunfang Zhou	17
+28	SW A325a	Gruppedannelse	2	Anders Mariegaard	13	Chunfang Zhou	17
+29	DAT A312a	Kollisionsundgaaelse i luften	3	Michel Laden	19	Asbjoern Romme	15
+30	DAT A400b	Elektronisk valg	5	Michel Laden	19	Edward Vingwe	20
+31	DAT A411	Analyse af livestream data	6	Frederik Meyer Boenneland	1	Edward Vingwe	20

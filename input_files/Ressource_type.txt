@@ -1,0 +1,7 @@
+Type	ID
+SEMINAR_ROOM	0
+AUDITORIUM	2
+PERSON	1
+	
+	
+	

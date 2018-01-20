@@ -1,0 +1,21 @@
+Name	ID	Role	Salery
+Frederik Meyer Boenneland	1	1	120
+Laurits Nissen	2	2	120
+Kirsten Krogh Hansen	3	6	120
+Kurt Noermark	4	1	120
+Magnus Madsen	5	1	120
+Sahar Sattari	6	2	120
+Lars Peter Jensen	7	4	120
+David Junker	8	1	120
+Sara Aaen	9	2	120
+Niels Broendum Pedersen	10	1	120
+Isabella Kaufmann	11	1	120
+Henrik Routhe	12	2	200
+Anders Mariegaard	13	1	120
+Hans Huettel	14	1	120
+Asbjoern Romme	15	2	200
+Tobias Skovgaard Jepsen	16	1	120
+Chunfang Zhou	17	2	120
+Soeren Loekke	18	4	120
+Michel Laden	19	1	120
+Edward Vingwe	20	2	120

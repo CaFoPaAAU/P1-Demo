@@ -1,0 +1,161 @@
+ID	Dato	Timeslot	Timeslot_ID	Ressource_type	Ressource_type_ID
+1	11/13/2017	8:15-9:15	1	Magnus Madsen	1
+2	11/13/2017	9:30-10:30	2	Magnus Madsen	1
+3	11/14/2017	8:15-9:15	9	Magnus Madsen	1
+4	11/14/2017	9:30-10:30	10	Magnus Madsen	1
+5	11/15/2017	8:15-9:15	17	Magnus Madsen	1
+6	11/15/2017	9:30-10:30	18	Magnus Madsen	1
+7	11/16/2017	8:15-9:15	25	Magnus Madsen	1
+8	11/16/2017	9:30-10:30	26	Magnus Madsen	1
+9	11/17/2017	8:15-9:15	33	Magnus Madsen	1
+10	11/17/2017	9:30-10:30	34	Magnus Madsen	1
+11	11/20/2017	8:15-9:15	41	Magnus Madsen	1
+12	11/20/2017	9:30-10:30	42	Magnus Madsen	1
+13	11/21/2017	8:15-9:15	49	Magnus Madsen	1
+14	11/21/2017	9:30-10:30	50	Magnus Madsen	1
+15	11/16/2017	10:45-11:45	27	Frederik Meyer Boenneland	1
+16	11/16/2017	12:30-13:30	28	Frederik Meyer Boenneland	1
+17	11/17/2017	10:45-11:45	35	Frederik Meyer Boenneland	1
+18	11/17/2017	12:30-13:30	36	Frederik Meyer Boenneland	1
+19	11/21/2017	15:00-16:00	54	Laurits Nissen	1
+20	11/21/2017	16:15-17:15	55	Laurits Nissen	1
+21	11/21/2017	17:30-18:30	56	Laurits Nissen	1
+22	11/13/2017	8:15-9:15	1	Kirsten Krogh Hansen	1
+23	11/13/2017	9:30-10:30	2	Kirsten Krogh Hansen	1
+24	11/14/2017	9:30-10:30	10	Kurt Noermark	1
+25	11/13/2017	8:15-9:15	1	Sahar Sattari	1
+26	11/13/2017	9:30-10:30	2	Sahar Sattari	1
+27	11/13/2017	10:45-11:45	3	Sahar Sattari	1
+28	11/13/2017	12:30-13:30	4	Sahar Sattari	1
+29	11/13/2017	13:45-14:45	5	Sahar Sattari	1
+30	11/13/2017	15:00-16:00	6	Sahar Sattari	1
+31	11/13/2017	16:15-17:15	7	Sahar Sattari	1
+32	11/13/2017	17:30-18:30	8	Sahar Sattari	1
+33	11/14/2017	8:15-9:15	9	Sahar Sattari	1
+34	11/14/2017	9:30-10:30	10	Sahar Sattari	1
+35	11/14/2017	10:45-11:45	11	Sahar Sattari	1
+36	11/14/2017	12:30-13:30	12	Sahar Sattari	1
+37	11/14/2017	13:45-14:45	13	Sahar Sattari	1
+38	11/14/2017	15:00-16:00	14	Sahar Sattari	1
+39	11/14/2017	16:15-17:15	15	Sahar Sattari	1
+40	11/14/2017	17:30-18:30	16	Sahar Sattari	1
+41	11/13/2017	8:15-9:15	1	Lars Peter Jensen	1
+42	11/13/2017	9:30-10:30	2	Lars Peter Jensen	1
+43	11/13/2017	10:45-11:45	3	Lars Peter Jensen	1
+44	11/13/2017	12:30-13:30	4	Lars Peter Jensen	1
+45	11/13/2017	8:15-9:15	1	Hans Huettel	1
+46	11/13/2017	9:30-10:30	2	Hans Huettel	1
+47	11/13/2017	10:45-11:45	3	Hans Huettel	1
+48	11/13/2017	12:30-13:30	4	Hans Huettel	1
+49	11/13/2017	13:45-14:45	5	Hans Huettel	1
+50	11/13/2017	15:00-16:00	6	Hans Huettel	1
+51	11/13/2017	16:15-17:15	7	Hans Huettel	1
+52	11/13/2017	17:30-18:30	8	Hans Huettel	1
+53	11/14/2017	8:15-9:15	9	Hans Huettel	1
+54	11/14/2017	9:30-10:30	10	Hans Huettel	1
+55	11/14/2017	10:45-11:45	11	Hans Huettel	1
+56	11/14/2017	12:30-13:30	12	Hans Huettel	1
+57	11/14/2017	13:45-14:45	13	Hans Huettel	1
+58	11/14/2017	15:00-16:00	14	Hans Huettel	1
+59	11/14/2017	16:15-17:15	15	Hans Huettel	1
+60	11/14/2017	17:30-18:30	16	Hans Huettel	1
+61	11/15/2017	8:15-9:15	17	Hans Huettel	1
+62	11/15/2017	9:30-10:30	18	Hans Huettel	1
+63	11/15/2017	10:45-11:45	19	Hans Huettel	1
+64	11/15/2017	12:30-13:30	20	Hans Huettel	1
+65	11/15/2017	13:45-14:45	21	Hans Huettel	1
+66	11/15/2017	15:00-16:00	22	Hans Huettel	1
+67	11/15/2017	16:15-17:15	23	Hans Huettel	1
+68	11/15/2017	17:30-18:30	24	Hans Huettel	1
+69	11/16/2017	8:15-9:15	25	Hans Huettel	1
+70	11/16/2017	9:30-10:30	26	Hans Huettel	1
+71	11/16/2017	10:45-11:45	27	Hans Huettel	1
+72	11/16/2017	12:30-13:30	28	Hans Huettel	1
+73	11/16/2017	13:45-14:45	29	Hans Huettel	1
+74	11/16/2017	15:00-16:00	30	Hans Huettel	1
+75	11/16/2017	16:15-17:15	31	Hans Huettel	1
+76	11/16/2017	17:30-18:30	32	Hans Huettel	1
+77	11/20/2017	8:15-9:15	41	Hans Huettel	1
+78	11/20/2017	9:30-10:30	42	Hans Huettel	1
+79	11/20/2017	10:45-11:45	43	Hans Huettel	1
+80	11/20/2017	12:30-13:30	44	Hans Huettel	1
+81	11/20/2017	13:45-14:45	45	Hans Huettel	1
+82	11/20/2017	15:00-16:00	46	Hans Huettel	1
+83	11/20/2017	16:15-17:15	47	Hans Huettel	1
+84	11/20/2017	17:30-18:30	48	Hans Huettel	1
+85	11/21/2017	8:15-9:15	49	Hans Huettel	1
+86	11/21/2017	9:30-10:30	50	Hans Huettel	1
+87	11/21/2017	10:45-11:45	51	Hans Huettel	1
+88	11/21/2017	12:30-13:30	52	Hans Huettel	1
+89	11/21/2017	13:45-14:45	53	Hans Huettel	1
+90	11/21/2017	15:00-16:00	54	Hans Huettel	1
+91	11/21/2017	16:15-17:15	55	Hans Huettel	1
+92	11/21/2017	17:30-18:30	56	Hans Huettel	1
+93	11/16/2017	8:15-9:15	25	Niels Broendum Pedersen	1
+94	11/16/2017	9:30-10:30	26	Niels Broendum Pedersen	1
+95	11/15/2017	8:15-9:15	17	Henrik Routhe	1
+96	11/16/2017	8:15-9:15	25	Chunfang Zhou	1
+97	11/16/2017	9:30-10:30	26	Chunfang Zhou	1
+98	11/16/2017	10:45-11:45	27	Chunfang Zhou	1
+99	11/16/2017	12:30-13:30	28	Chunfang Zhou	1
+100	11/17/2017	8:15-9:15	33	Michel Laden	1
+101	11/17/2017	9:30-10:30	34	Michel Laden	1
+102	11/17/2017	10:45-11:45	35	Michel Laden	1
+103	11/17/2017	15:00-16:00	38	Michel Laden	1
+104	11/17/2017	16:15-17:15	39	Michel Laden	1
+105	11/17/2017	17:30-18:30	40	Michel Laden	1
+106	11/20/2017	8:15-9:15	41	Michel Laden	1
+107	11/20/2017	9:30-10:30	42	Michel Laden	1
+108	11/20/2017	10:45-11:45	43	Michel Laden	1
+109	11/20/2017	12:30-13:30	44	Michel Laden	1
+110	11/20/2017	13:45-14:45	45	Michel Laden	1
+111	11/20/2017	15:00-16:00	46	Michel Laden	1
+112	11/20/2017	17:30-18:30	48	Michel Laden	1
+113	11/13/2017	8:15-9:15	1	Edward Vingwe	1
+114	11/13/2017	9:30-10:30	2	Edward Vingwe	1
+115	11/13/2017	10:45-11:45	3	Edward Vingwe	1
+116	11/21/2017	8:15-9:15	49	Anders Mariegaard	1
+117	11/21/2017	9:30-10:30	50	Anders Mariegaard	1
+118	11/21/2017	10:45-11:45	51	Anders Mariegaard	1
+119	11/21/2017	12:30-13:30	52	Anders Mariegaard	1
+120	11/21/2017	13:45-14:45	53	Anders Mariegaard	1
+121	11/21/2017	15:00-16:00	54	Anders Mariegaard	1
+122	11/21/2017	16:15-17:15	55	Anders Mariegaard	1
+123	11/21/2017	17:30-18:30	56	Anders Mariegaard	1
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
