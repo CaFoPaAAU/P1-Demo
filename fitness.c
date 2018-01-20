@@ -513,7 +513,7 @@ void get_fitness_definitions(dict_t *d, table_fitness_t *ft, bool use_weigths) {
 	{ 0, d->n_groups, 0.85, 0, 9999 },
 	{ 0, d->n_groups, 0.4, 0, 9999 },
 	{ 0, 110, 0.25, 0, 9999 },
-	{ 20, 115, 0.8, 0, 9999 },
+	{ 20, 150, 0.8, 0, 9999 },
 	{ 0, 40, 0.3, 0, 9999 },
 	{ 4, 7, 1, 0, 9999 }
 	};
