@@ -310,6 +310,9 @@ int table_is_valid(table_t *table, dict_t *d) {
 				sup1 = id_to_id(d, sp[j].presenter, GROUP_S, SUPERVISOR_S);
 				co_sup1 = id_to_id(d, sp[j].presenter, GROUP_S, CO_SUPERVISOR_S);
 				ext_sup1 = sp[j].external_supervisor;
+				
+				if (sup1 == co_sup1 || sup1 == ext_sup1 || co_sup1 == ext_sup1)
+					return false;
 
 				persons_1[0] = sup1;
 				persons_1[1] = co_sup1;
